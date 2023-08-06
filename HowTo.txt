@@ -1,0 +1,3 @@
+Created a npx create-react-app with . so that it will install directly inside the frontend folder
+added dependencies which are required by npm i react-router-dom three axios overlay-navbar @reduxjs/toolkit
+more dependencies = npm i @mui/material @emotion/react @emotion/styled
